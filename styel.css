@@ -1,0 +1,35 @@
+body{
+   margin-top:30vh;
+ 
+}
+label{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+td{
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+}
+
+input{
+    border-radius: 10px;
+    margin-bottom: 10px;    
+}
+
+button{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+    background-color: rgb(236, 207, 43);
+    color: rgb(52, 49, 49);
+    height: 40px;
+    padding: 10px;
+}
+
+thead th{
+    height: 50px;
+    width: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 20px;
+    border-width: 2px;
+    }
+
